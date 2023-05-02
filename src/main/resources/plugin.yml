@@ -1,0 +1,7 @@
+name: FiapoPlugin
+version: '${project.version}'
+main: br.com.fiap.main
+authors: [ Pai_do_Guilherme_The_Exiled ]
+description: Let's Rock The Future
+commands:
+  localizar:
